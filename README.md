@@ -1,7 +1,7 @@
 # Student-Metrics-Analysis-in-Python
 Uses Python libraries (Pandas, Seaborn, Scikit-learn) for statistical analysis, clustering, and data visualization of student performance metrics.
 
-**ProJect Overview**
+**Project Overview**
 A synthetic dataset of 100 students is generated using NumPy and Pandas. Each record simulates student-level metrics across study habits, academic results, and well-being factors. I created this project to practice analytical workflows in education-related data, where student outcomes are influenced by multiple overlapping lifestyle and learning factors. While the project relies on synthetic data for analysis(due to the lack of access to the real student metrics), predictive models used can be applied to forecast risk of underperformance at real schools.
 
 **1. Data Generation and Preparation**
